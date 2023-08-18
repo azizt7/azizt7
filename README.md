@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Aziz_Tarique.
-- 👀 I’m interested in Data Analytics & Web Development Work.
+- 👀 I’m interested in Data Analytics & Web Development Works.
 - 🌱 I’m currently learning ... Python , HTML , CSS , Java.
 - 📫 How to reach me ... aziztarique37@gmail.com
